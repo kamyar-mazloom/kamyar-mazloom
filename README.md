@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kamyar Mazloom</h1>
+<h1 align="center">Hi 👋, I'm Kamyar</h1>
 <h3 align="center">A supply chain professional from Iran.</h3>
 
 - 🔭 I’m currently working on **becoming a full stack web developer**
