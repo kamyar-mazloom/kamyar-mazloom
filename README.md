@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **becoming a full stack web developer**
 
-- 📘 I started my learning journy on **Monday, August 9, 2021**
+- 📘 I started my learning journey on **Monday, August 9, 2021**
 
 - 🌱 I’m currently learning **HTML,CSS,JS**
 
