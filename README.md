@@ -5,7 +5,7 @@
 
 - 📘 I started my learning journey on **Monday, August 9, 2021**
 
-- 🌱 I’m currently learning **HTML,CSS,JS**
+- 🌱 I’m currently learning through **[The Odin Project](https://www.theodinproject.com/)**
 
 - 📫 How to reach me **mazloom1994@gmail.com**
 
