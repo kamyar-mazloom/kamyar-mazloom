@@ -19,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamyar-mazloom&show_icons=true&locale=en&layout=compact" alt="kamyar-mazloom" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamyar-mazloom&show_icons=true&locale=en" alt="kamyar-mazloom" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamyar-mazloom&" alt="kamyar-mazloom" /></p>
