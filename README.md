@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **becoming a full-stack web developer**
 
-- 🌱 I’m currently learning **React through fullstackopen.com**
+- 🌱 I’m currently learning **React through [fullstackopen](fullstackopen.com)**
 
 - 📝 I'm documenting my journey on [KamyarMazloom.com](KamyarMazloom.com)
 
