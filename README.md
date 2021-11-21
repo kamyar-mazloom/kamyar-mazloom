@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kamyar</h1>
 <h3 align="center">A supply chain professional from Iran</h3>
 
-- 🔭 I’m currently working on **becoming a full-stack web developer**
+- 🔭 I’m currently working on becoming a full-stack web developer
 
-- 🌱 I’m currently learning **React through [fullstackopen](fullstackopen.com)**
+- 🌱 I’m currently learning React through [FullStackOpen](https://www.fullstackopen.com)
 
-- 📝 I'm documenting my journey on [KamyarMazloom.com](KamyarMazloom.com)
+- 📝 I'm documenting my journey on [KamyarMazloom.com](https://www.KamyarMazloom.com)
 
-- 📫 How to reach me **email@kamyarmazloom.com**
+- 📫 How to reach me email@kamyarmazloom.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
